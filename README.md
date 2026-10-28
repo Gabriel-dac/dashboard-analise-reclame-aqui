@@ -1,3 +1,5 @@
+https://mwbgjw3qrxornjhtwcfcms.streamlit.app/
+
 # 📊 Dashboard de Análise - Reclame Aqui
 
 Este projeto é uma aplicação web interativa desenvolvida em Python para analisar o histórico de atendimento e satisfação de clientes de seis grandes empresas brasileiras no portal Reclame Aqui. O foco principal foi criar um pipeline de ETL (Extração, Tratamento e Carregamento) e disponibilizar os insights através de um Dashboard de Business Intelligence.
